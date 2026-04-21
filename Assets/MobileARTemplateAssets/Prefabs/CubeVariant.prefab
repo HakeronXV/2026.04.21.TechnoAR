@@ -294,11 +294,6 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 3471538223933167219, guid: ebd7292e888c84f05924605e51048072, type: 3}
   m_PrefabInstance: {fileID: 8374162720834587237}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &6600488088584196117 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3435864238947048048, guid: ebd7292e888c84f05924605e51048072, type: 3}
-  m_PrefabInstance: {fileID: 8374162720834587237}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &8986328500875594450 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 613292779795284151, guid: ebd7292e888c84f05924605e51048072, type: 3}
@@ -318,7 +313,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   _colorSwapLimit: 1
   _text: {fileID: 1982315915554504257}
-  color: {fileID: 6600488088584196117}
   _meshRenderer: {fileID: 4907341669316172822}
   _materialOri: {fileID: 2100000, guid: 83eabfe673263a445972586e5d8b56ee, type: 2}
   _materialRed: {fileID: 2100000, guid: d2b83f3499f653b4d93b63859f6c4666, type: 2}
