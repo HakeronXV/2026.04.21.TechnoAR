@@ -246,7 +246,7 @@ namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
                 visualizationTrans.rotation = newObject.transform.rotation;
             }
 
-            objectSpawned?.Invoke(newObject);
+            if(objectSpawned != null) objectSpawned.Invoke(newObject);
             return true;
         }
 

@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: dde89b7c31a15ac44a8696f96535b364
+  productGUID: 187ddd774ba9c4e499368cd64efd96bb
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -12,12 +12,12 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: HakApp
-  productName: IntroAR26
+  companyName: Arnaud Jopart Creative
+  productName: TXR26-IntroToAR
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
-  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashScreen: 0
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
@@ -114,7 +114,6 @@ PlayerSettings:
   xboxEnableGuest: 0
   xboxEnablePIXSampling: 0
   metalFramebufferOnly: 0
-  metalUseMetalDisplayLink: 0
   xboxOneResolution: 0
   xboxOneSResolution: 0
   xboxOneXResolution: 3
@@ -167,7 +166,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: be.HakApp.IntroAR26
+    Android: com.ajc.xr26Intro
     Standalone: com.unity.template.ar-mobile
     iPhone: com.unity.template.armobile
   buildNumber:
@@ -402,62 +401,62 @@ PlayerSettings:
     - m_Textures: []
       m_Width: 192
       m_Height: 192
-      m_Kind: 1
+      m_Kind: 0
       m_SubKind: 
     - m_Textures: []
       m_Width: 144
       m_Height: 144
-      m_Kind: 1
+      m_Kind: 0
       m_SubKind: 
     - m_Textures: []
       m_Width: 96
       m_Height: 96
-      m_Kind: 1
+      m_Kind: 0
       m_SubKind: 
     - m_Textures: []
       m_Width: 72
       m_Height: 72
-      m_Kind: 1
+      m_Kind: 0
       m_SubKind: 
     - m_Textures: []
       m_Width: 48
       m_Height: 48
-      m_Kind: 1
+      m_Kind: 0
       m_SubKind: 
     - m_Textures: []
       m_Width: 36
       m_Height: 36
-      m_Kind: 1
+      m_Kind: 0
       m_SubKind: 
     - m_Textures: []
       m_Width: 192
       m_Height: 192
-      m_Kind: 0
+      m_Kind: 1
       m_SubKind: 
     - m_Textures: []
       m_Width: 144
       m_Height: 144
-      m_Kind: 0
+      m_Kind: 1
       m_SubKind: 
     - m_Textures: []
       m_Width: 96
       m_Height: 96
-      m_Kind: 0
+      m_Kind: 1
       m_SubKind: 
     - m_Textures: []
       m_Width: 72
       m_Height: 72
-      m_Kind: 0
+      m_Kind: 1
       m_SubKind: 
     - m_Textures: []
       m_Width: 48
       m_Height: 48
-      m_Kind: 0
+      m_Kind: 1
       m_SubKind: 
     - m_Textures: []
       m_Width: 36
       m_Height: 36
-      m_Kind: 0
+      m_Kind: 1
       m_SubKind: 
     - m_Textures: []
       m_Width: 432
@@ -854,14 +853,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 2026.04.21.TechnoAR
+  metroPackageName: TXR26-IntroToAR
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 2026.04.21.TechnoAR
+  metroApplicationDescription: TXR26-IntroToAR
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
